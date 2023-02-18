@@ -1,5 +1,4 @@
 ## Organ-Donation-Management-System 
-<br/>
 
 ## About:
 The Organ Donation Management System is a simple PHP/MySQL project that manages organ donation. 
@@ -24,7 +23,7 @@ Users Page
 The page where can system admin user manages the list the system users.
 
 ## Tech Stack:
-1.HTML
-2.CSS
-2.PHP
-3.MySQL
+1. HTML 
+2. CSS
+3. PHP
+4. MySQL
